@@ -1,0 +1,14 @@
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.KPI\bin\Debug\Primo.CustomLib.KPI.dll
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.KPI\bin\Debug\Primo.CustomLib.KPI.pdb
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.KPI\obj\Debug\Primo.CustomLib.KPI.csproj.AssemblyReference.cache
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.KPI\obj\Debug\Design\ProcessingItemKpi_StopTimer_Form.g.cs
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.KPI\obj\Debug\Design\ProcessingItemKpi_StartTimer_Form.g.cs
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.KPI\obj\Debug\Primo.CustomLib.KPI_MarkupCompile.cache
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.KPI\obj\Debug\Primo.CustomLib.KPI_MarkupCompile.lref
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.KPI\obj\Debug\Design\ProcessingItemKpi_StopTimer_Form.baml
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.KPI\obj\Debug\Design\ProcessingItemKpi_StartTimer_Form.baml
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.KPI\obj\Debug\Primo.CustomLib.KPI.g.resources
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.KPI\obj\Debug\Primo.CustomLib.KPI.csproj.CoreCompileInputs.cache
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.KPI\obj\Debug\Primo.CustomLib.KPI.csproj.CopyComplete
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.KPI\obj\Debug\Primo.CustomLib.KPI.dll
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.KPI\obj\Debug\Primo.CustomLib.KPI.pdb

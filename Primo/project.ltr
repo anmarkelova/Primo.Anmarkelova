@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored />
+    <Breakpoints>
+        <KeyValueItem>
+            <Key>C:\Users\admin.WORK\Documents\TestRepository\Primo_CustomLib\Test\Main.ltw</Key>
+            <Value>55551a0d-9008-4182-9b47-48a7649da5ce</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\admin.WORK\Documents\TestRepository\Primo_CustomLib\Primo_TestProject\_Test\_Test.ltw</Key>
+            <Value>9347794e-d4f4-4576-ab1b-69715930e46c</Value>
+        </KeyValueItem>
+    </Breakpoints>
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\admin.WORK\Documents\TestRepository\Primo_CustomLib\Test\Main.ltw</string>
+        <string>C:\Users\admin.WORK\Documents\TestRepository\Primo_CustomLib\Test\Работа с текстом\ChangeTextRegistry.ltw</string>
+        <string>C:\Users\admin.WORK\Documents\TestRepository\Primo_CustomLib\Repo\Primo_TestProject\Общее\ProcessingItemKpi.ltw</string>
+        <string>C:\Users\admin.WORK\Documents\TestRepository\Primo_CustomLib\Primo_TestProject\Общее\ProcessingItemKpi.ltw</string>
+        <string>C:\Users\admin.WORK\Documents\TestRepository\Primo_CustomLib\Primo_TestProject\KPI элемента\ProcessingItemKpi.ltw</string>
+        <string>C:\Users\admin.WORK\Documents\Anastasiya.Markelova\iFellow\Проекты\Внутренние\Repo\Primo_CustomLib\Primo_TestProject\Погода\GetFullWeather.ltw</string>
+        <string>C:\Users\admin.WORK\Documents\Anastasiya.Markelova\iFellow\Проекты\Внутренние\Repo\Primo_CustomLib\Primo_TestProject\Погода\GetCityTemperature.ltw</string>
+        <string>C:\Users\admin.WORK\Documents\Anastasiya.Markelova\iFellow\Проекты\Внутренние\Repo\Primo_CustomLib\Primo_TestProject\Погода\GetCityPressure.ltw</string>
+        <string>C:\Users\admin.WORK\Downloads\Новая папка\Primo_TestProject\Работа с файлами\DeleteOldFiles.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>

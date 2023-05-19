@@ -1,0 +1,12 @@
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Text\obj\Debug\Primo.CustomLib.Text.csproj.AssemblyReference.cache
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Text\obj\Debug\Design\ChangeTextRegistry_Form.g.cs
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Text\obj\Debug\Design\ChangeTextRegistry_Form.baml
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Text\obj\Debug\Primo.CustomLib.Text.csproj.CoreCompileInputs.cache
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Text\obj\Debug\Primo.CustomLib.Text.csproj.CopyComplete
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Text\bin\Debug\Primo.CustomLib.Text.dll
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Text\bin\Debug\Primo.CustomLib.Text.pdb
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Text\obj\Debug\Primo.CustomLib.Text_MarkupCompile.cache
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Text\obj\Debug\Primo.CustomLib.Text_MarkupCompile.lref
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Text\obj\Debug\Primo.CustomLib.Text.g.resources
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Text\obj\Debug\Primo.CustomLib.Text.dll
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Text\obj\Debug\Primo.CustomLib.Text.pdb

@@ -1,0 +1,24 @@
+~$*.pix
+*.bak
+Temp/
+_Test/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio temp something
+.vs/
+
+# Other Extensions
+*.vspscc
+
+# NuGet Packages
+**/packages/

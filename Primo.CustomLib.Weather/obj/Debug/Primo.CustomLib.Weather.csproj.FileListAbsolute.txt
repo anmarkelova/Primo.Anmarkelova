@@ -1,0 +1,17 @@
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Weather\bin\Debug\Primo.CustomLib.Weather.dll
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Weather\bin\Debug\Primo.CustomLib.Weather.pdb
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Weather\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Weather\obj\Debug\Primo.CustomLib.Weather.csproj.AssemblyReference.cache
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Weather\obj\Debug\Design\CityPressure_Form.g.cs
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Weather\obj\Debug\Design\CityTemperature_Form.g.cs
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Weather\obj\Debug\Design\FullWeatherData_Form.g.cs
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Weather\obj\Debug\Primo.CustomLib.Weather_MarkupCompile.cache
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Weather\obj\Debug\Primo.CustomLib.Weather_MarkupCompile.lref
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Weather\obj\Debug\Design\CityPressure_Form.baml
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Weather\obj\Debug\Design\CityTemperature_Form.baml
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Weather\obj\Debug\Design\FullWeatherData_Form.baml
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Weather\obj\Debug\Primo.CustomLib.Weather.g.resources
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Weather\obj\Debug\Primo.CustomLib.Weather.csproj.CoreCompileInputs.cache
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Weather\obj\Debug\Primo.CustomLib.Weather.csproj.CopyComplete
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Weather\obj\Debug\Primo.CustomLib.Weather.dll
+C:\Users\admin.WORK\Downloads\Новая папка\Primo.CustomLib.Weather\obj\Debug\Primo.CustomLib.Weather.pdb

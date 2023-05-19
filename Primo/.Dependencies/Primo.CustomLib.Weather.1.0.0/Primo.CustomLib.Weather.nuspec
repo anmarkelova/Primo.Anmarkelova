@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Primo.CustomLib.Weather</id>
+    <version>1.0.0</version>
+    <title>Primo.CustomLib.Weather</title>
+    <authors>Anastasiya Markelova</authors>
+    <owners></owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Primo.CustomLib.Weather</description>
+  </metadata>
+</package>

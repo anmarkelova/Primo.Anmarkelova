@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Project>
+        <Name>Primo_TestProject</Name>
+        <TypeSort>1</TypeSort>
+    </Project>
+    <RunConfig>None</RunConfig>
+    <RobotEdition>Enterprise</RobotEdition>
+</LTProjectRoot>

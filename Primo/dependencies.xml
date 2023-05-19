@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ProjectDependencies xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <NugetDependencies>
+        <NugetDependency>
+            <Id>Primo.CustomLib.Weather</Id>
+            <Version>1.0.0</Version>
+            <SourceId xsi:nil="true" />
+            <SourceName>test</SourceName>
+        </NugetDependency>
+        <NugetDependency>
+            <Id>Primo.CustomLib.Text</Id>
+            <Version>1.0.0</Version>
+            <SourceId xsi:nil="true" />
+            <SourceName>test</SourceName>
+        </NugetDependency>
+        <NugetDependency>
+            <Id>Primo.CustomLib.Files</Id>
+            <Version>1.0.0</Version>
+            <SourceId xsi:nil="true" />
+            <SourceName>test</SourceName>
+        </NugetDependency>
+        <NugetDependency>
+            <Id>Primo.CustomLib.KPI</Id>
+            <Version>1.0.0</Version>
+            <SourceId xsi:nil="true" />
+            <SourceName>test</SourceName>
+        </NugetDependency>
+    </NugetDependencies>
+    <Namespaces>
+        <ProjectNamespace>
+            <FullName>System</FullName>
+        </ProjectNamespace>
+        <ProjectNamespace>
+            <FullName>System.Collections.Generic</FullName>
+        </ProjectNamespace>
+        <ProjectNamespace>
+            <FullName>System.Linq</FullName>
+        </ProjectNamespace>
+        <ProjectNamespace>
+            <FullName>System.Data</FullName>
+        </ProjectNamespace>
+        <ProjectNamespace>
+            <FullName>System.Data.Common</FullName>
+        </ProjectNamespace>
+        <ProjectNamespace>
+            <FullName>System.Text</FullName>
+        </ProjectNamespace>
+        <ProjectNamespace>
+            <FullName>LTools.Scripting.Model</FullName>
+        </ProjectNamespace>
+        <ProjectNamespace>
+            <FullName>LTools.Network.Model</FullName>
+        </ProjectNamespace>
+    </Namespaces>
+</ProjectDependencies>
